@@ -1,5 +1,4 @@
 # Railway Reservation System
-An implementation of Railway Reservation System of both user and administrator view based on concepts of oops
 
 ## Motivation:
 To implement a railway reservation system which provides convenience to both user and administrator in the process of booking Pakistan Railway Management System
